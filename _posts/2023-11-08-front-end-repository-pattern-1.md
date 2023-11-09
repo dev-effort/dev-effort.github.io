@@ -32,7 +32,7 @@ Repository pattern을 도입한 가장 큰 이유이다.
 
 ## Repostiroy pattern이란?
 
-![repository-pattern](/images/2023-11-08-프론트엔드에-repository-pattern-적용-1/repository-pattern.png)
+![repository-pattern](/images2023-11-08-front-end-repository-pattern-1/repository-pattern.png)
 
 Repository Layer는 데이터에 대한 CRUD operation을 하고 data를 entity와 맵핑하는 역할을 한다. (entity는 data store에서 오는 값, data는 client business layer에서 사용되는 값)
 
