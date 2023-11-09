@@ -1,8 +1,7 @@
 ---
-Layout: single
+layout: single
 title: 프론트엔드에 repository pattern 적용기 - 1
-Categories: front-end
-Typora-root-url: ../
+typora-root-url: ../
 ---
 
 
