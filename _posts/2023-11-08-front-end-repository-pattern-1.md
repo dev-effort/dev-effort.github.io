@@ -4,7 +4,6 @@ title: 프론트엔드에 repository pattern 적용기 - 1
 categories: architecture
 tag: [react, front-end, architecture]
 typora-root-url: ../
-toc: true
 author_profile: false
 ---
 
