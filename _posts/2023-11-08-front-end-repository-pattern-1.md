@@ -48,3 +48,9 @@ UserRepository: IUserRepository의 구현체로서 서버와 통신하는 코드
 User 데이터를 사용하는 비지니스 레이어에서 구현체를 사용하게되면 구현체를 바꿀때마다 코드를 여러곳에서 수정해줘야 하는 번거로움이 생긴다. 따라서 비지니스 레이어에서는 구현체를 알아선 안되고 인터페이스만을 사용해야한다. 때문에 의존성을 주입해주고 사용하는 곳에선 인터페이스만 알수있도록 해야한다.
 
 이를 위해 inversify라는 IoC 컨테이너를 사용하였다.
+
+
+
+Next
+
+https://dev-effort.github.io/architecture/front-end-repository-pattern-2/ 
