@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name: "데포트(김승준)"
+  name: "데포트"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "꾸준함은 모든 것을 해낼 수 있다."
   location: # "역삼"
