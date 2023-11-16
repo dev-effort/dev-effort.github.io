@@ -53,4 +53,4 @@ User 데이터를 사용하는 비지니스 레이어에서 구현체를 사용�
 
 Next
 
-https://dev-effort.github.io/architecture/front-end-repository-pattern-2/ 
+[repository pattern 적용기 - 2](https://dev-effort.github.io/architecture/front-end-repository-pattern-2/)
