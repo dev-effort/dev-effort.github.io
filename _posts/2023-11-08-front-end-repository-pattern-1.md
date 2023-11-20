@@ -5,6 +5,8 @@ categories: architecture
 tag: [react, front-end, architecture]
 typora-root-url: ../
 author_profile: false
+sidebar:
+  nav: "counts"
 ---
 
 ## Repository pattern을 고려한 이유

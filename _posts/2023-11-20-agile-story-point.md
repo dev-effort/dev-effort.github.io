@@ -5,6 +5,8 @@ categories: software-engineering
 tag: [software engineering, agile, story point]
 typora-root-url: ../
 author_profile: false
+sidebar:
+  nav: "counts"
 ---
 
 ## 서론
